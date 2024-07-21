@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Product.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|solutionrelative:MultidimensionalProject\\Product.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Sales.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|solutionrelative:MultidimensionalProject\\Sales.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Prod_Cust.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|solutionrelative:MultidimensionalProject\\Prod_Cust.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\ProductCube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|solutionrelative:MultidimensionalProject\\ProductCube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Time Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|solutionrelative:MultidimensionalProject\\Time Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Salesman Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|solutionrelative:MultidimensionalProject\\Salesman Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Product Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|solutionrelative:MultidimensionalProject\\Product Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Customer Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A8A9AAB4-2C37-40A8-9099-AD02D9CF8CFF}|MultidimensionalProject\\MultidimensionalProject.dwproj|solutionrelative:MultidimensionalProject\\Customer Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Sales.cube",
+              "RelativeDocumentMoniker": "MultidimensionalProject\\Sales.cube",
+              "ToolTip": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Sales.cube [Design]",
+              "RelativeToolTip": "MultidimensionalProject\\Sales.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T13:57:51.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Product.cube",
+              "RelativeDocumentMoniker": "MultidimensionalProject\\Product.cube",
+              "ToolTip": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Product.cube [Design]",
+              "RelativeToolTip": "MultidimensionalProject\\Product.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T14:13:03.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prod_Cust.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Prod_Cust.cube",
+              "RelativeDocumentMoniker": "MultidimensionalProject\\Prod_Cust.cube",
+              "ToolTip": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Prod_Cust.cube [Design]",
+              "RelativeToolTip": "MultidimensionalProject\\Prod_Cust.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T13:47:37.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Salesman Dim.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Salesman Dim.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject\\Salesman Dim.dim",
+              "ToolTip": "I:\\Test_ITI\\SQL BI\\day2\\MultidimensionalProject\\MultidimensionalProject\\Salesman Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T12:42:32.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCube.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\ProductCube.cube",
+              "RelativeDocumentMoniker": "MultidimensionalProject\\ProductCube.cube",
+              "ToolTip": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\ProductCube.cube [Design]",
+              "RelativeToolTip": "MultidimensionalProject\\ProductCube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T12:36:53.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Time Dim.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Time Dim.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject\\Time Dim.dim",
+              "ToolTip": "I:\\Test_ITI\\SQL BI\\day2\\MultidimensionalProject\\MultidimensionalProject\\Time Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T10:20:31.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product Dim.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Product Dim.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject\\Product Dim.dim",
+              "ToolTip": "I:\\Test_ITI\\SQL BI\\day2\\MultidimensionalProject\\MultidimensionalProject\\Product Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T10:19:49.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer Dim.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_02_SSAS\\MultidimensionalProject\\MultidimensionalProject\\Customer Dim.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject\\Customer Dim.dim",
+              "ToolTip": "I:\\Test_ITI\\SQL BI\\day2\\MultidimensionalProject\\MultidimensionalProject\\Customer Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T10:19:39.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

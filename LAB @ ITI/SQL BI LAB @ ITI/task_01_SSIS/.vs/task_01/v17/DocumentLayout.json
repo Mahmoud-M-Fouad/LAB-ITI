@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task5.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|solutionrelative:task_01\\task5.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task4.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|solutionrelative:task_01\\task4.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task3.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|solutionrelative:task_01\\task3.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task2.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|solutionrelative:task_01\\task2.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task1.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{6A529C72-B241-4BE0-B7E2-CB2ED0AC9130}|task_01\\task_01.dtproj|solutionrelative:task_01\\task1.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task5.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task5.dtsx",
+              "RelativeDocumentMoniker": "task_01\\task5.dtsx",
+              "ToolTip": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task5.dtsx [Design]*",
+              "RelativeToolTip": "task_01\\task5.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-06T14:32:25.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task4.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task4.dtsx",
+              "RelativeDocumentMoniker": "task_01\\task4.dtsx",
+              "ToolTip": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task4.dtsx [Design]*",
+              "RelativeToolTip": "task_01\\task4.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-06T14:04:39.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task3.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task3.dtsx",
+              "RelativeDocumentMoniker": "task_01\\task3.dtsx",
+              "ToolTip": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task3.dtsx [Design]",
+              "RelativeToolTip": "task_01\\task3.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-06T13:40:46.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task2.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task2.dtsx",
+              "RelativeDocumentMoniker": "task_01\\task2.dtsx",
+              "ToolTip": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task2.dtsx [Design]",
+              "RelativeToolTip": "task_01\\task2.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-06T13:29:22.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task1.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task1.dtsx",
+              "RelativeDocumentMoniker": "task_01\\task1.dtsx",
+              "ToolTip": "C:\\Users\\mahmo\\OneDrive\\Desktop\\\u0645\u062D\u0645\u0648\u062F \u0645\u062D\u0645\u062F \u0641\u0624\u0627\u062F\\LAB @ ITI\\SQL BI LAB @ ITI\\task_01_SSIS\\task_01\\task1.dtsx [Design]*",
+              "RelativeToolTip": "task_01\\task1.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-06T13:07:54.651Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

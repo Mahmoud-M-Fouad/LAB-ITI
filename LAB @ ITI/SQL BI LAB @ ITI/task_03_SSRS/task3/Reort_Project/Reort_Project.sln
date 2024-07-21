@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Reort_Project", "Reort_Project.rptproj", "{C7F8470B-E8AC-477D-BEFA-C15E1D983814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F8470B-E8AC-477D-BEFA-C15E1D983814}.Debug|Default.ActiveCfg = Debug
+		{C7F8470B-E8AC-477D-BEFA-C15E1D983814}.Debug|Default.Build.0 = Debug
+		{C7F8470B-E8AC-477D-BEFA-C15E1D983814}.Debug|Default.Deploy.0 = Debug
+		{C7F8470B-E8AC-477D-BEFA-C15E1D983814}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C7F8470B-E8AC-477D-BEFA-C15E1D983814}.DebugLocal|Default.Build.0 = DebugLocal
+		{C7F8470B-E8AC-477D-BEFA-C15E1D983814}.Release|Default.ActiveCfg = Release
+		{C7F8470B-E8AC-477D-BEFA-C15E1D983814}.Release|Default.Build.0 = Release
+		{C7F8470B-E8AC-477D-BEFA-C15E1D983814}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62208AC7-1E29-409C-B6B6-FC6EBA73224F}
+	EndGlobalSection
+EndGlobal
